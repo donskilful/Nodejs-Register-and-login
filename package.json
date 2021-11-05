@@ -1,12 +1,11 @@
 {
-  "name": "nodePassportLogin",
+  "name": "nodepassportregistrationandloginsystem",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js",
-    "build": "node app.js"
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
